@@ -1,7 +1,13 @@
 [package]
 name = "lunar_rust"
-version = "0.1.0"
+version = "1.0.1"
 edition = "2021"
+license = "MIT"
+homepage = "https://github.com/flameoftheforest/lunar_rust"
+repository = "https://github.com/flameoftheforest/lunar_rust"
+description = "日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar."
+readme = "README.md"
+keywords = ["农历", "干支", "i-ching", "zodiac", "calendar"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
