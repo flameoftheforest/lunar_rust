@@ -1,3 +1,5 @@
+#![allow(non_snake_case)]
+#![allow(dead_code)]
 pub mod eight_char;
 pub mod foto;
 pub mod foto_festival;

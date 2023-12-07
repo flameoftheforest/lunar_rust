@@ -78,6 +78,7 @@ impl LunarUtil {
   /// ## Returns
   /// + 时辰(地支): **String**，如"子"
   ///
+  #[allow(dead_code)]
   fn convert_time(hm: &str) -> String {
     ZHI()[LunarUtil::get_time_zhi_index(hm) as usize + 1].to_string()
   }

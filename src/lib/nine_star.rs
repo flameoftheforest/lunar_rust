@@ -2,6 +2,7 @@ use crate::util::{
   locked_ref_trait::LockRef, lunar_util::POSITION_DESC,
   mmacro::__static_funk, stringx::StringX,
 };
+#[allow(unused_imports)]
 use once_cell::sync::Lazy;
 use std::{
   collections::HashMap,

@@ -7,6 +7,7 @@ use crate::{
   },
 };
 use chrono::{Datelike, NaiveDate};
+#[allow(unused_imports)]
 use once_cell::sync::Lazy;
 use std::{
   collections::HashMap,
